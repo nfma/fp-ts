@@ -1,5 +1,5 @@
 {
-  "name": "nfma-fp-ts",
+  "name": "fp-ts",
   "version": "0.0.1",
   "description": "temp copy of Functional programming in TypeScript by Giulio Canti",
   "files": ["lib"],
