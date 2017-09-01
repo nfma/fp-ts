@@ -1,8 +1,10 @@
 {
   "name": "nfma-fp-ts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "temp copy of Functional programming in TypeScript by Giulio Canti",
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "scripts": {
@@ -38,6 +40,18 @@
     "tslint-config-standard": "4.0.0",
     "typescript": "2.4.2"
   },
-  "tags": ["typescript", "static-land", "fantasy-land", "algebraic-data-types", "functional-programming"],
-  "keywords": ["typescript", "static-land", "fantasy-land", "algebraic-data-types", "functional-programming"]
+  "tags": [
+    "typescript",
+    "static-land",
+    "fantasy-land",
+    "algebraic-data-types",
+    "functional-programming"
+  ],
+  "keywords": [
+    "typescript",
+    "static-land",
+    "fantasy-land",
+    "algebraic-data-types",
+    "functional-programming"
+  ]
 }
