@@ -1,5 +1,5 @@
 {
-  "name": "fp-ts",
+  "name": "nfma-fp-ts",
   "version": "0.0.1",
   "description": "temp copy of Functional programming in TypeScript by Giulio Canti",
   "files": ["lib"],
@@ -24,6 +24,9 @@
     "url": "https://github.com/gcanti/fp-ts/issues"
   },
   "homepage": "https://github.com/gcanti/fp-ts",
+  "publishConfig": {
+    "registry": "http://mmrepo.artifactoryonline.com/mmrepo/api/npm/npm-local"
+  },
   "dependencies": {},
   "devDependencies": {
     "@types/mocha": "2.2.38",
